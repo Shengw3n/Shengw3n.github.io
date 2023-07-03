@@ -58,6 +58,7 @@ APSC 100 in term 1, and APSC 101 in term 2. Meme courses, teaches you the roles 
 
 - Study Recommendations:
 	- Watch the weekly modules carefully and do a couple practice exams prior to exams. A good nights sleep and not over thinking is sometimes more important.  A lot of it is honestly common sense.
+ 	- Taking initiative in team management and keep your group organized is very important because the deadline for projects are often alongside midterms for your other classes and stress can quickly buildup.
 
 ### CHEM 154
 *Hardness rating: ⭐⭐⭐* 
@@ -104,7 +105,7 @@ Definitely the most enjoyable course in term 1. APSC 160 teaches you how to code
 
 ## Semester 2
 ### Math 101
-*Hardness rating: ⭐⭐* 
+*Hardness rating: ⭐⭐⭐* 
 
 Math 101 teaches you how to do integration for the first half of the course and series for the second half . The integration part was a review from IB but definitely not the series part. 
 * Resources:
