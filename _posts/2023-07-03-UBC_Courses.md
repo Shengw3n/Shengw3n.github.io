@@ -139,7 +139,7 @@ Math 152 teaches you linear systems, which is very important in understanding PH
 	- Bi-weekly MATLAB labs
 
 - Exams:
-	- 2 midterm and 1 final. The midterms are ok but the finals were super super super hard. 
+	- 2 midterm and 1 final. The midterms were ok but the final was super super super hard. 
 
 - Study Recommendations:
 	- Same as MATH 100
