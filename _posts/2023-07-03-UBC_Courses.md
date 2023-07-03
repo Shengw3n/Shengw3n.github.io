@@ -24,10 +24,8 @@ I took IB Math HL and IB Physics HL so I learned a lot of contents prior. The bi
 
 ## Semester 1
 ### Math 100 
-*Hardness rating: ⭐*
-
+*Hardness rating: ⭐* 
 Math 100 teaches you how to do derivatives along with a little bit of optimization and multivariable calculus. If you did IB or AP like me this is essentially a review. Contents are much simpler than Math HL too. The multivariable calculus part was super hard and teaches you about saddle points, Newton’s law of cooling, and crazy year 2 math, but none of it showed up on any exams. 
-
 * Resources:
 	- [Textbook](https://personal.math.ubc.ca/~CLP/CLP1/)
 	- [Past Exams](https://secure.math.ubc.ca/Ugrad/pastExams/)
@@ -46,10 +44,8 @@ Math 100 teaches you how to do derivatives along with a little bit of optimizati
 	- Group assignments are worth 20% of your entire grades and they mark it pretty harshly. Make sure someone in your group knows latex.
 
 ### APSC 100/101
-*Hardness rating: ⭐*
-
+*Hardness rating: ⭐* 
 APSC 100 in term 1, and APSC 101 in term 2. Meme courses, teaches you the roles and responsibilities of an engineer and what an engineering design process might look like. You also gain hands on experience designing cardboard chairs and autonomous claws etc. It is a meme course because the exams are multiple choices only and all of the choices make sense. So at the end of the day it’s essentially a lottery game of who gets luckier on the exam. You’ll know what I’m talking about when you actually experience it yourself.
-
 - Workload:
 	- Weekly screencast and online self-tests
 	- Monthly engineering projects (Cardboard chair competition, presentations, etc.)
@@ -62,10 +58,8 @@ APSC 100 in term 1, and APSC 101 in term 2. Meme courses, teaches you the roles 
 	- Watch the weekly modules carefully and do a couple practice exams prior to exams. A good nights sleep and not over thinking is sometimes more important.  A lot of it is honestly common sense.
 
 ### CHEM 154
-*Hardness rating: ⭐⭐⭐*
-
+*Hardness rating: ⭐⭐⭐* 
 CHEM 154 is essentially chemistry 12 on steroids. You learn some stoichiometry in the beginning and slowly transition to equilibriums, thermodynamics, kinetics, and electrochemistry.  I am not very good at chemistry nor am I interested so the course felt very hard/tedious for me. Each unit by itself aren’t hard at all but there’s just too many units.
-
 - Workload:
 	- Weekly workbook questions
 	- monthly lab writeup
@@ -77,10 +71,8 @@ CHEM 154 is essentially chemistry 12 on steroids. You learn some stoichiometry i
 	- Study early, do every workbook questions and make sure you understand it after checking answers. You definitely can’t cram for this course there’s just too much contents. 
 
 ### PHYS 157
-*Hardness rating: ⭐⭐*
-
+*Hardness rating: ⭐⭐* 
 Physics 157 teaches you about thermodynamics and waves and will be your first university level physics. You will learn that a heat engine is the exact opposite of a refrigerator and how waves can be used to measure space compressions. Honestly the hardness deserves a ⭐⭐⭐ but this goated [YouTube playlist](https://youtube.com/playlist?list=PLODFGtnlvFGdAWq9H3Y6UjyKqCwn6FzoG)exists. Professor Raamsdonk is the greatest.
-
 - Workload:
 	- Weekly reading quiz
 	- Weekly online Mastering Physics questions
@@ -94,10 +86,8 @@ Physics 157 teaches you about thermodynamics and waves and will be your first un
 	- Grind practice and past midterms
 
 ### APSC 160
-*Hardness rating: ⭐*
-
+*Hardness rating: ⭐* 
 Definitely the most enjoyable course in term 1. APSC 160 teaches you how to code in C and is the only flipped classroom in first year ( you learn the material at home and the prof goes over the main points in class).  You do not need prior coding experiences to exceed in this course and watching your code run for the first time can be very exciting. Most of the class time is used for homework which means you have minimal workload at home and you can leave class fairly early once you finish.
-
 - Workload:
 	- Weekly screencast and coding assignments
 
@@ -109,10 +99,8 @@ Definitely the most enjoyable course in term 1. APSC 160 teaches you how to code
 
 ## Semester 2
 ### Math 101
-*Hardness rating: ⭐⭐*
-
+*Hardness rating: ⭐⭐* 
 Math 101 teaches you how to do integration for the first half of the course and series for the second half . The integration part was a review from IB but definitely not the series part. 
-
 * Resources:
 	- [Textbook](https://personal.math.ubc.ca/~CLP/CLP2/)
 	- [Past Exams](https://secure.math.ubc.ca/Ugrad/pastExams/)
@@ -129,8 +117,7 @@ Math 101 teaches you how to do integration for the first half of the course and 
 	- Same as MATH 100
 
 ### Math 152
-*Hardness rating: ⭐⭐⭐*
-
+*Hardness rating: ⭐⭐⭐* 
 Math 152 teaches you linear systems, which is very important in understanding PHYS 170 and ultimately mechanics. The first half consists of vectors and matrices and were much easier than IB Math HL. The second half consist of eigenvalues and are quite confusing at first.  You also learn Matlab basics throughout the course. If you have not studied vectors and planes before I suggest you start learning a bit prior to the start of the course, especially if you are not good at imagining 3D planes. A lot of my friends had trouble understanding at first.
 
  - Resources:
@@ -148,8 +135,7 @@ Math 152 teaches you linear systems, which is very important in understanding PH
 	- Review your exam markings. There are many different methods of solving linear systems and your TA marking may not be aware of your methods.
 
 ### PHYS 158
-*Hardness rating: ⭐⭐⭐⭐⭐*
-
+*Hardness rating: ⭐⭐⭐⭐⭐* 
 The hardest course in first year.  PHYS 158 teaches you circuits and magnetism. There are a lot of contents and they are all not easy, so definitely start studying early.  Even if you did horrible on your first 2 midterms, don’t give up because if you did well in the final the prof replaces your final course grade with your final exam grade. (**Note**: this is true for my year I’m not sure about yours)
 
  - Resources:
@@ -166,8 +152,7 @@ The hardest course in first year.  PHYS 158 teaches you circuits and magnetism. 
 	- Learn material early and fully understand mastering physics and written homework problems. They will be hard but do it on your own because it is far better getting bad marks on assignments than bombing the exams which are worth almost 80% of your grades.
 
 ### PHYS 159
-*Hardness rating: ⭐*
-
+*Hardness rating: ⭐* 
 One credit physics lab which teaches you the various experiment methods. Very high class average with low workload given that most of the work is done in class time. To exceed in this course you need to understand what the TAs marking want from you, which is a clear lab report that includes all the criterias.  Getting a good lab partner also helps a lot. 
 
 - Workload:
@@ -181,8 +166,7 @@ One credit physics lab which teaches you the various experiment methods. Very hi
 	- Finish your experiment fast and write fast. Include as many details as you can and conduct more trails if there’s time for more accuracy. The TAs don’t really mark you based on your answer but your process getting to your answer. 
 
 ### PHYS 170
-*Hardness rating: ⭐⭐*
-
+*Hardness rating: ⭐⭐* 
 PHYS 170 teaches you how to draw free body diagrams and calculate the different forces within it. It is not too hard because the questions on the exam are very similar to past exams. There’s only a few types of problems and once you grind some you basically seen it all.
 
 -  Workload:
