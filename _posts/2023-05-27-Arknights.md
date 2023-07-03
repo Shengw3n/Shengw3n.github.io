@@ -2,7 +2,7 @@
 layout:     post
 title:      Arknights Pull Analysis
 subtitle:   Via Mathematical Modeling
-date:       2023-05-27 12:00:00
+date:       2023-06-15 12:00:00
 author:     "Steven"
 header-img: "img/ubccourse.jpeg"
 catalog:    true
