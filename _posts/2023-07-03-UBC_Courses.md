@@ -127,9 +127,9 @@ Math 101 teaches you how to do integration for the first half of the course and 
  	- Math 101 has a lot less overlap with highschool than math 100, do CLP 2 questions for extra practice
 
 ### Math 152
-*Hardness rating: ⭐⭐⭐* 
+*Hardness rating: ⭐⭐⭐⭐* 
 
-Math 152 teaches you linear systems, which is very important in understanding PHYS 170 and ultimately mechanics. The first half consists of vectors and matrices and were much easier than IB Math HL. The second half consist of eigenvalues and are quite confusing at first.  You also learn Matlab basics throughout the course. If you have not studied vectors and planes before I suggest you start learning a bit prior to the start of the course, especially if you are not good at imagining 3D planes. A lot of my friends had trouble understanding at first.
+Math 152 teaches you linear systems, which is very important in understanding PHYS 170 and ultimately mechanics. The first half consists of vectors and matrices and were much easier than IB Math HL. The second half consist of eigenvalues and matrix algebra and are all difficult conceptually.  You also learn Matlab basics throughout the course. If you have not studied vectors and planes before I suggest you start learning a bit prior to the start of the course, especially if you are not good at imagining 3D planes. A lot of my friends had trouble understanding at first.
 
  - Resources:
 	- [Past Exams](https://secure.math.ubc.ca/Ugrad/pastExams/)
