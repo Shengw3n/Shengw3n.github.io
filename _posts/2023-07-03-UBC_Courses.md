@@ -122,8 +122,9 @@ Math 101 teaches you how to do integration for the first half of the course and 
 - Exams:
 	- Only 1 final worth 50%, consisting of 10 easy questions and 3-4 hard questions. The past exams were not that helpful given the amount of curriculum change this year.
 
- Study Recommendations:
-	- Same as MATH 100
+ Study Recommendations: 
+	- Same as MATH 100 
+ 	- Math 101 has a lot less overlap with highschool than math 100, do CLP 2 questions for extra practice
 
 ### Math 152
 *Hardness rating: ⭐⭐⭐* 
