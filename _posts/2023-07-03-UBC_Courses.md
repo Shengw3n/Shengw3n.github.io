@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      A Guide to First Year Engineering Courses at UBC
+title:      UBC First Year Engineering Course Guide
 subtitle:   Warning: Super Comprehensive
 date:       2023-07-03 12:00:00
 author:     "Steven"
