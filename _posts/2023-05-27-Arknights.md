@@ -4,7 +4,7 @@ title:      Arknights Pull Analysis
 subtitle:   Via Mathematical Modeling
 date:       2023-05-27 12:00:00
 author:     "Steven"
-header-img: "img/arknights.png"
+header-img: "img/ubccourse.jpeg"
 catalog:    true
 mathjax: true
 tags:
