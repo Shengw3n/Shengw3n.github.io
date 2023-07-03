@@ -1,5 +1,15 @@
-# A Comprehensive Guide to First-Year Engineering Courses at UBC
-#blog/est
+---
+layout:     post
+title:      A Guide to First-Year Engineering Courses at UBC
+subtitle:   Warning: Super Comprehensive
+date:       2023-07-03 12:00:00
+author:     "Steven"
+header-img: "img/ubccourse.jpeg"
+catalog:    true
+mathjax: true
+tags:
+    - UBC Engineering
+---
 
 In the first year of engineering at UBC, all students take the same set of courses from the standard times table (STT). In this article, I will provide a comprehensive overview of each course, including its contents, difficulties, and potential challenges.
 
