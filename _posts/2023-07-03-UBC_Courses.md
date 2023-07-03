@@ -59,8 +59,8 @@ APSC 100 in term 1, and APSC 101 in term 2. Meme courses, teaches you the roles 
 	- 1 midterm and 1 final,  all multiple choices. I have gotten better marks not studying than studying. Just make sure your reading comprehension is on point. They scale the exams really hard.
 
 - Study Recommendations:
-	- Watch the weekly modules carefully and do a couple practice exams prior to exams. A good nights sleep and not over thinking is sometimes more important.  A lot of it is honestly common sense.
- 	- Taking initiative in team management and keep your group organized is very important because the deadline for projects are often alongside midterms for your other classes and stress can quickly buildup.
+	- Watch the weekly modules carefully and do a couple practice exams prior to exams. A good nights sleep and not over thinking is sometimes more important.  A lot of it is honestly common sense. 
+	- Taking initiative in team management and keep your group organized is very important because the deadline for projects are often alongside midterms for your other classes and stress can quickly buildup.
 
 ### CHEM 154
 *Hardness rating: ⭐⭐⭐* 
