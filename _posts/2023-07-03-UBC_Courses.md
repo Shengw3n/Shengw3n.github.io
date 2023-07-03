@@ -25,6 +25,7 @@ I took IB Math HL and IB Physics HL so I learned a lot of contents prior. The bi
 ## Semester 1
 ### Math 100 
 *Hardness rating: ⭐* 
+
 Math 100 teaches you how to do derivatives along with a little bit of optimization and multivariable calculus. If you did IB or AP like me this is essentially a review. Contents are much simpler than Math HL too. The multivariable calculus part was super hard and teaches you about saddle points, Newton’s law of cooling, and crazy year 2 math, but none of it showed up on any exams. 
 * Resources:
 	- [Textbook](https://personal.math.ubc.ca/~CLP/CLP1/)
