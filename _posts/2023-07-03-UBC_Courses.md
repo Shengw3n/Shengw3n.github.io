@@ -22,6 +22,8 @@ Typically, your semester will follow a structure similar to the one outlined bel
 ## General Advice
 I took IB Math HL and IB Physics HL so I learned a lot of contents prior. The biggest jump for me is the amount of homework for each class. Sometimes it for real feels like there’s no time to study because we are just doing homework all day. Try not to skip every class like me and build a strong foundation throughout the year rather than cramming before exams.  The content is not hard in my opinion, there’s just a lot of content to cover in relatively short amount of times.  Use [UBCGrades](https://ubcgrades.com) to check the averages for your classes to get a good understanding of the difficulty levels.
 
+In addition, good exam taking skills are also vital. You need to be both fast and accurate, espcially during midterms when exam times are very short. UBC also don't give that much part marks for incorrect answers. 
+
 ## Semester 1
 ### Math 100 
 *Hardness rating: ⭐* 
@@ -80,7 +82,7 @@ CHEM 154 is essentially chemistry 12 on steroids. You learn some stoichiometry i
 Physics 157 teaches you about thermodynamics and waves and will be your first university level physics. You will learn that a heat engine is the exact opposite of a refrigerator and how waves can be used to measure space compressions. Honestly the hardness deserves a ⭐⭐⭐ but this goated [YouTube playlist](https://youtube.com/playlist?list=PLODFGtnlvFGdAWq9H3Y6UjyKqCwn6FzoG)exists. Professor Raamsdonk is the greatest.
 - Workload:
 	- Weekly reading quiz
-	- Weekly online Mastering Physics questions
+	- Weekly online Mastering Physics questions / written worksheet
 
 - Exams:
 	- 2 midterms and 1 final consisting of some multiple choices and some written questions. Multiple choices are worth a lot of marks and if you mess up just one you lose like 6% on the midterm. The final was pretty light though and perhaps that’s why our average this year was the highest.
