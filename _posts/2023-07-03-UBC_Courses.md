@@ -13,9 +13,9 @@ tags:
 
 In the first year of engineering at UBC, all students take the same set of courses from the standard times table (STT). In this article, I will provide a comprehensive overview of each course, including its contents, difficulties, and potential challenges.
 
-Typically, your semester will follow a structure similar to the one outlined below, although some Standard Timetable (STT) variations may interchange PHYS 170 and APSC 160. It is recommended to aim for taking APSC 160 in the first semester and PHYS 170 in the second semester as indicated here. This is because Math 152, which is only offered in semester 2, helps you learn PHYS 170 contents better; and the coding skills learned in APSC 160 is useful in designing your claw for APSC 101 in term 2. 
+Typically, your semester will follow a structure similar to the one outlined below, although some Standard Timetable (STT) variations may interchange PHYS 170 and APSC 160. It is recommended to aim for taking APSC 160 in the first semester and PHYS 170 in the second semester as indicated here. This is because Math 152, which is only offered in semester 2, helps you learn PHYS 170 contents better; and the coding skills learned in APSC 160 are useful in designing your claw for APSC 101 in term 2. 
 
-**Note:**  Most people take a English course (typically WRDS 150) and an arts elective during first year, they are not included here because I had credits so I just skipped them. 
+**Note:**  Most people take an English course (typically WRDS 150) and an arts elective during first year. They are not included here because I had credits so I just skipped them. 
 
 **Another Note:** This is my experience taking first year courses in the 2022-2023 year. It is important to note that curriculum changes can occur over time, and the specific courses you encounter may differ depending on when you are accessing this information. For example, in our year, there were significant modifications in Math 100 and Math 101 compared to previous years. Therefore, it is essential to consult the most up-to-date curriculum and course offerings for accurate information regarding your specific academic year.
 
