@@ -162,6 +162,7 @@ The hardest course in first year.  PHYS 158 teaches you circuits and magnetism. 
 
 - Study Recommendation:
 	- Learn material early and fully understand mastering physics and written homework problems. They will be hard but do it on your own because it is far better getting bad marks on assignments than bombing the exams which are worth almost 80% of your grades.
+ 	- Make sure you fully understand all the written-out examples in the textbook. They are pretty similar to the questions you will see in your exams. 
 
 ### PHYS 159
 *Hardness rating: ⭐* 
