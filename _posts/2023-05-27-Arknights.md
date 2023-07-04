@@ -15,7 +15,7 @@ tags:
 This post aims to employ mathematical modeling to estimate the expected number of pulls required to obtain a single **random** 6-star character in the mobile game Arknights. Feel free to utilize the provided catalog on the right-hand side to navigate to the specific sections that pique your interest.
 
 ## What is Arknights
-Arknights is a popular mobile tower defense game where players take on the role of a “Doctor” leading a team of unique ~~waifus~~ operators to defend against ~~other waifus~~ threats in a dystopian world. 
+Arknights is a popular mobile tower defense game where players take on the role of a “Doctor” leading a team of unique operators to defend against threats in a dystopian world. 
 
 The game incorporates a gacha system that revolves around acquiring new operators through randomized draws, each with designated probabilities. Operators are categorized by their star ratings, with 6-star operators considered the most powerful and 1-star operators the least. The probability of obtaining a 6-star operator stands at 2% per entry by default, although exceptions may apply as detailed below:
 
