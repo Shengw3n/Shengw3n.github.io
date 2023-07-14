@@ -33,7 +33,7 @@ Once everyone was done with their initial design we inputted all our CAD files t
 ## Revision #1
 Where can I cut weight in my design? 
 
-![img](/img/R1.jpg)
+![img](/img/R1.JPG)
 Landing Legs V2
 
 In this design, I used a 3 legged system instead and made its length shorter 
@@ -42,17 +42,17 @@ but enough for it to be functional.
 
 Now that the weight issue is solved, let’s start building!
 
-![img](/img/3D.jpg)
+![img](/img/3D.JPG)
 3D printing materials
 
-![img](/img/PP1.jpg)
+![img](/img/PP1.JPG)
 Physical Prototype #1
 
 The landing leg is made out of carbon fibre rod with its tensile strength calculated, the rest 3D printed.  The connections are secured using dowel pins and set screws. 
 
 Unfortunately PHYS 170 was taught too late, as I failed to realize the forces on the landing legs did not distribute to the suspension system. 
 
-![img](/img/Fail.jpg)
+![img](/img/Fail.JPG)
 Force distribution failure
 
 ## Revision #2
@@ -82,10 +82,10 @@ Although the rocket failed the drop test, there was only failure on the foot. Ev
 
 This gave me confidence in my overall design and I began optimizing the foot. 
 
-![img](/img/3D1.jpg)
+![img](/img/3D1.JPG)
 We bought a new printer!
 
-![img](/img/foot.jpg)
+![img](/img/foot.JPG)
 The three foot variations. The one on the right is my newly updated version. It is a lot beefier. 
 
 ## What’s next?
