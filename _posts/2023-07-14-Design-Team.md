@@ -33,7 +33,7 @@ Once everyone was done with their initial design we inputted all our CAD files t
 ## Revision #1
 Where can I cut weight in my design? 
 
-![](2023-07-14-Design-Team/IMG_8431.JPG)
+![img](/img/R1.jpg)
 Landing Legs V2
 
 In this design, I used a 3 legged system instead and made its length shorter 
@@ -42,29 +42,29 @@ but enough for it to be functional.
 
 Now that the weight issue is solved, let’s start building!
 
-![](2023-07-14-Design-Team/IMG_8451.JPG)
+![img](/img/3D.jpg)
 3D printing materials
 
-![](2023-07-14-Design-Team/IMG_8525.JPG)
+![img](/img/PP1.jpg)
 Physical Prototype #1
 
 The landing leg is made out of carbon fibre rod with its tensile strength calculated, the rest 3D printed.  The connections are secured using dowel pins and set screws. 
 
 Unfortunately PHYS 170 was taught too late, as I failed to realize the forces on the landing legs did not distribute to the suspension system. 
 
-![](2023-07-14-Design-Team/IMG_8526.JPG)
+![img](/img/Fail.jpg)
 Force distribution failure
 
 ## Revision #2
 What design can distribute most of the force to the suspension system? (It’s impossible for 100% distribution given the suspension and the landing impact are not within the same axes.)
 
-![](2023-07-14-Design-Team/Untitled.jpg)
+![img](/img/R3.jpg)
 
 In this design the force distribution is fixed along with various optimization for the leg joints and foot. 
 
 Alright let’s start building again :) 
 
-![](2023-07-14-Design-Team/IMG_9456.jpg)
+![img](/img/PP2.jpg)
 Physical Prototype #2
 
 Now everything will work just fine…right? 
@@ -74,7 +74,7 @@ The suspension system is working properly, it’s time for the drop test!
 
 If the code works properly, the rocket will only drop when it’s 10 cm away from the ground. However, given how the landing system did not hold any weight yet, we did drop test at 10cm, 50cm, and 100 cm. 
 
-![](2023-07-14-Design-Team/IMG_8819.JPG)
+![img](/img/Drop.jpg)
 Ye the rocket broke at the 100 cm drop…
 
 ## Revision #4
@@ -82,10 +82,10 @@ Although the rocket failed the drop test, there was only failure on the foot. Ev
 
 This gave me confidence in my overall design and I began optimizing the foot. 
 
-![](2023-07-14-Design-Team/IMG_9023%202.JPG)
+![img](/img/3D1.jpg)
 We bought a new printer!
 
-![](2023-07-14-Design-Team/IMG_9234.JPG)
+![img](/img/foot.jpg)
 The three foot variations. The one on the right is my newly updated version. It is a lot beefier. 
 
 ## What’s next?
