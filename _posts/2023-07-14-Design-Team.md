@@ -19,10 +19,9 @@ There are currently [34 design teams](https://teams.engineering.ubc.ca/the-teams
 ## My experience
 UBC Rocket is currently divided into 3 teams working on 3 different rockets:  **Whistler Blackcomb**, a 100km liquid-fuel rocket; **Beauty and the Beast**, a 2 stage solid-motor rocket; and **Thrust Vector Rocket**, a thrust vector controlled rocket capable of 3d maneuvering and powered landing.  
 
-I was on the mechanical and manufacture team for the Thrust  Vector Rocket, focusing on design, source, and manufacture the landing system. What the heck is a rocket landing system?
+I was on the mechanical and manufacture team for the Thrust Vector Rocket, focusing on the design, source, and manufacture of the landing system. What the heck is a rocket landing system?
 
 After researching and discussing with my teammates, I decided on a straight legged design and began SolidWorking:
-
 ![img](/img/R0.png)
 <p align="center">
 Landing Legs V1 (tweaked from a design of a previous member)
