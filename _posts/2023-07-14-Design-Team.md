@@ -4,7 +4,7 @@ title:      My First Year Design Team Experience
 subtitle:   at UBC Rocket
 date:       2023-07-14 12:00:00
 author:     "Steven"
-header-img: "img/ubccourse.jpeg"
+header-img: "img/rockets.jpeg"
 catalog:    true
 mathjax: false
 tags:
