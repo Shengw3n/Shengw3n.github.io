@@ -65,7 +65,7 @@ What design can distribute most of the force to the suspension system? (It’s i
 <p align="center">
 Landing Legs V3
 </p>
-In this design the force distribution is fixed along with various optimization for the leg joints and foot. 
+In this design the force distribution is fixed along with various optimization for the leg joints and feet. 
 
 Alright let’s start building again :) 
 
