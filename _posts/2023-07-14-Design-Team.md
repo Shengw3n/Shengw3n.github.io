@@ -7,6 +7,7 @@ author:     "Steven"
 header-img: "img/rockets.jpg"
 catalog:    true
 mathjax: false
+streamableId: v4dg4o
 tags:
     - UBC Engineering
 ---
@@ -15,6 +16,8 @@ When I was still a high schooler in BC, I heard a lot about engineering design t
 
 ## Why I joined UBC Rocket
 There are currently [34 design teams](https://teams.engineering.ubc.ca/the-teams/) at UBC at the time of writing. There is **[UBC Aerodesign](https://www.ubcaerodesign.com)**, which makes RC airplanes; **[Formula UBC](https://www.formulaubc.com)**, which makes Formula One cars; and of course **[UBC Rocket](https://www.ubcrocket.com)**, which makes rockets.  I wanted to join UBC Rocket because rockets are cool and they go brrrrrrr 🚀 🚀 🚀 .
+
+{% include streamablePlayer.html id=page.streamableId %}
 
 ## My experience
 UBC Rocket is currently divided into 3 teams working on 3 different rockets:  **Whistler Blackcomb**, a 100km liquid-fuel rocket; **Beauty and the Beast**, a 2 stage solid-motor rocket; and **Thrust Vector Rocket**, a thrust vector controlled rocket capable of 3d maneuvering and powered landing.  
