@@ -49,8 +49,9 @@ Now that the weight issue is solved, let’s start building!
 3D printing materials
 </p>
 ![img](/img/PP1.JPG)
+<p align="center">
 Physical Prototype #1
-
+</p>
 The landing leg is made out of carbon fibre rod with its tensile strength calculated, the rest 3D printed.  The connections are secured using dowel pins and set screws. 
 
 Unfortunately PHYS 170 was taught too late, as I failed to realize the forces on the landing legs did not distribute to the suspension system. 
