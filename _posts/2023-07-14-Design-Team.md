@@ -12,7 +12,7 @@ tags:
     - UBC Engineering
 ---
 
-When I was still a high schooler in BC, I heard a lot about engineering design teams at UBC. They are similar to your typical high school FIRST Robotics team, except they are bigger, better, and richer.  Naturally, being a captain of my high school’s FIRST Robotics team, I knew I would be interested in joining one.
+Engineering design teams are similar to your typical high school FIRST Robotics team, except they are bigger, better, and richer.
 
 ## Why I joined UBC Rocket
 There are currently [34 design teams](https://teams.engineering.ubc.ca/the-teams/) at UBC at the time of writing. There is **[UBC Aerodesign](https://www.ubcaerodesign.com)**, which makes RC airplanes; **[Formula UBC](https://www.formulaubc.com)**, which makes Formula One cars; and of course **[UBC Rocket](https://www.ubcrocket.com)**, which makes rockets.  I wanted to join UBC Rocket because rockets are cool and they go brrrrrrr 🚀 🚀 🚀 . Here is a UBC Rocket 2023 clip:
