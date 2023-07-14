@@ -91,6 +91,7 @@ This gave me confidence in my overall design and I began optimizing the foot.
 <p align="center">
 We bought a new printer!
 </p>
+
 ![img](/img/Foot.JPG)
 <p align="center">
 The three foot variations. The one on the right is my newly updated version. It is a lot beefier. 
