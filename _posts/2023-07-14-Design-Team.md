@@ -38,9 +38,7 @@ Where can I cut weight in my design?
 <p align="center">
 Landing Legs V2
 </p>
-In this design, I used a 3 legged system instead and made its length shorter 
-
-but enough for it to be functional. 
+In this design, I used a 3 legged system instead and made its length shorter but enough for it to be functional. 
 
 Now that the weight issue is solved, let’s start building!
 
