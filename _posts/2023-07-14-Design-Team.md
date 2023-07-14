@@ -23,7 +23,7 @@ I was on the mechanical and manufacture team for the Thrust  Vector Rocket, focu
 
 After researching and discussing with my teammates, I decided on a straight legged design and began SolidWorking:
 
-![](R0.png)
+![img](/img/R0.png)
 Landing Legs V1 (tweaked from a design of a previous member)
 
 In this design, springs were placed on top of the leg joints to act as suspension, which help absorb shock when the rocket lands.
