@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      My First Year Design Team Experience
-subtitle:   @ UBC Rocket
+subtitle:   at UBC Rocket
 date:       2023-07-014 12:00:00
 author:     "Steven"
 header-img: "img/ubccourse.jpeg"
