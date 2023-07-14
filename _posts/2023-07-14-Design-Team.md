@@ -2,7 +2,7 @@
 layout:     post
 title:      My First Year Design Team Experience
 subtitle:   at UBC Rocket
-date:       2023-07-014 12:00:00
+date:       2023-07-14 12:00:00
 author:     "Steven"
 header-img: "img/ubccourse.jpeg"
 catalog:    true
