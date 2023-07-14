@@ -78,7 +78,7 @@ Now everything will work just fine…right?
 ## The Drop Test
 The suspension system is working properly, it’s time for the drop test! 
 
-If the code works properly, the rocket will only drop when it’s 10 cm away from the ground. However, given how the landing system did not hold any weight yet, we did drop test at 10cm, 50cm, and 100 cm. 
+If the code works properly, the rocket will only drop when it’s 10 cm away from the ground. However, given how the landing system did not hold any weight yet, we decided to do drop test at 10cm, 50cm, and 100 cm. 
 
 ![img](/img/Drop.JPG)
 Ye the rocket broke at the 100 cm drop…
