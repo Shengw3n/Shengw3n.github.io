@@ -87,15 +87,17 @@ Ye the feet broke at the 100 cm drop…
 Although the landing system failed the drop test, there was only failure on the feet. Everything else survived, especially the leg joints, which failed back in revision #1.
 
 This gave me confidence in my overall design and I began optimizing the feet. 
-
+![img](/img/feet.png)
+<p align="center">
+New Foot Design 😎
+</p>
 ![img](/img/3D1.JPG)
 <p align="center">
 We bought a new printer!
 </p>
-
 ![img](/img/Foot.JPG)
 <p align="center">
-The three foot variations. The one on the right is my newly updated version. It is a lot beefier. 
+The three generation of foot design.
 </p>
 
 ## What’s next?
