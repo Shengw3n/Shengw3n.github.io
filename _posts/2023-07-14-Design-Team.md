@@ -91,10 +91,12 @@ This gave me confidence in my overall design and I began optimizing the feet.
 <p align="center">
 New Foot Design 😎
 </p>
+
 ![img](/img/3D1.JPG)
 <p align="center">
 We bought a new printer!
 </p>
+
 ![img](/img/Foot.JPG)
 <p align="center">
 The three generation of foot design.
