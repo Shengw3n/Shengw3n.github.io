@@ -103,7 +103,7 @@ The three foot variations. The one on the right is my newly updated version. It 
 Unfortunately I did not have enough time to build the third physical prototype for a second drop test as I will be going back to China. My work will be carried on by my teammates as we are set to compete in August 2023 for the Launch Canada Competition. 
 
 ## Conclusion 
-In conclusion,  I really enjoyed working at UBC Rocket. We met every Sunday morning to afternoon and I learned a lot of variable technical skills in the process. The team environment was also very friendly and positive and my teammates were always there when I was stuck.  
+In conclusion,  I really enjoyed working at UBC Rocket. We met every Sunday morning to afternoon and I learned a lot of valuable technical skills in the process. The team environment was also very friendly and positive and my teammates were always there when I was stuck.  
 
 
 
