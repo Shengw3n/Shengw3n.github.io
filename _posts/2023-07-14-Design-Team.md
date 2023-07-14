@@ -84,9 +84,9 @@ If the code works properly, the rocket will only drop when it’s 10 cm away fro
 Ye the feet broke at the 100 cm drop…
 
 ## Revision #4
-Although the rocket failed the drop test, there was only failure on the foot. Everything else survived, especially the leg joints, which failed back in revision #1.
+Although the landing system failed the drop test, there was only failure on the feet. Everything else survived, especially the leg joints, which failed back in revision #1.
 
-This gave me confidence in my overall design and I began optimizing the foot. 
+This gave me confidence in my overall design and I began optimizing the feet. 
 
 ![img](/img/3D1.JPG)
 <p align="center">
