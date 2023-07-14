@@ -1,6 +1,15 @@
-# My First Year Design Team Experience
-@ UBC Rocket
-#blog/est
+---
+layout:     post
+title:      My First Year Design Team Experience
+subtitle:   @ UBC Rocket
+date:       2023-07-014 12:00:00
+author:     "Steven"
+header-img: "img/ubccourse.jpeg"
+catalog:    true
+mathjax: false
+tags:
+    - UBC Engineering
+---
 
 When I was still a high schooler in BC, I heard a lot about engineering design teams at UBC. They are similar to your typical high school FIRST Robotics team, except they are bigger, better, and richer.  Naturally, being a captain of my high school’s FIRST Robotics team, I knew I would be interested in joining one.
 
