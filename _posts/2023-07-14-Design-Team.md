@@ -16,8 +16,7 @@ When I was still a high schooler in BC, I heard a lot about engineering design t
 
 ## Why I joined UBC Rocket
 There are currently [34 design teams](https://teams.engineering.ubc.ca/the-teams/) at UBC at the time of writing. There is **[UBC Aerodesign](https://www.ubcaerodesign.com)**, which makes RC airplanes; **[Formula UBC](https://www.formulaubc.com)**, which makes Formula One cars; and of course **[UBC Rocket](https://www.ubcrocket.com)**, which makes rockets.  I wanted to join UBC Rocket because rockets are cool and they go brrrrrrr 🚀 🚀 🚀 .
-{% include streamablePlayer.html id=page.streamableId %}
-<p align="center">
+{% include streamablePlayer.html id=page.streamableId %} <p align="center">
 UBC Rocket 2023 Launch
 </p>
 ## My experience
